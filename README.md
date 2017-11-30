@@ -1,5 +1,5 @@
 # ESP8266-Robotics-Projects
-This is the code repository for [ESP8266 Robotics Projects](https://www.packtpub.com/hardware-and-creative/esp8266-robotics-projects). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [ESP8266 Robotics Projects](https://www.packtpub.com/hardware-and-creative/esp8266-robotics-projects), published by [Packt](https://www.packtpub.com/?utm_source=github).. It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 The ESP8266 Wi-Fi module is a self-contained SOC with an integrated TCP/IP protocol stack and can give any microcontroller access to your Wi-Fi network. It has a powerful processing and storage capability and also supports application hosting and Wi-Fi networking.
 
