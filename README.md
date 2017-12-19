@@ -1,4 +1,4 @@
-# ESP8266-Robotics-Projects
+# ESP8266 Robotics Projects
 This is the code repository for [ESP8266 Robotics Projects](https://www.packtpub.com/hardware-and-creative/esp8266-robotics-projects), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 The ESP8266 Wi-Fi module is a self-contained SOC with an integrated TCP/IP protocol stack and can give any microcontroller access to your Wi-Fi network. It has a powerful processing and storage capability and also supports application hosting and Wi-Fi networking.
@@ -31,5 +31,3 @@ Arduino IDE and electronics.
 
 * [Building Smart Drones with ESP8266 and Arduino](https://www.packtpub.com/hardware-and-creative/building-smart-drones-esp8266-and-arduino)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
