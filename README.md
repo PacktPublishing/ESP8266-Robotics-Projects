@@ -31,3 +31,7 @@ Arduino IDE and electronics.
 
 * [Building Smart Drones with ESP8266 and Arduino](https://www.packtpub.com/hardware-and-creative/building-smart-drones-esp8266-and-arduino)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788474610">https://packt.link/free-ebook/9781788474610 </a> </p>
